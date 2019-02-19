@@ -26,3 +26,75 @@ A Fully Convolutional Networks (FCN) don’t have any of the fully-connected lay
 So the final output layer will be the same height and width as the input image, but the number of channels will be equal to the number of classes. If we’re classifying each pixel as one of fifteen different classes, then the final output layer will be height x width x 15 classes.
 
 ![FCN Flow](http://cvlab.postech.ac.kr/research/deconvnet/images/overall.png)
+
+
+# Data Rerording
+I used the data provided in in the project.
+
+# Project Code 
+
+Here we describe the code added to the project.
+
+Separable Convolutions
+The Encoder for your FCN will essentially require separable convolution layers, due to their advantages as explained in the classroom. The 1x1 convolution layer in the FCN, however, is a regular convolution. Implementations for both are provided below for your use. Each includes batch normalization with the ReLU activation function applied to the layers.
+```
+def separable_conv2d_batchnorm(input_layer, filters, strides=1):
+    output_layer = SeparableConv2DKeras(filters=filters,kernel_size=3, strides=strides,
+                             padding='same', activation='relu')(input_layer)
+    
+    output_layer = layers.BatchNormalization()(output_layer) 
+    return output_layer
+
+def conv2d_batchnorm(input_layer, filters, kernel_size=3, strides=1):
+    output_layer = layers.Conv2D(filters=filters, kernel_size=kernel_size, strides=strides, 
+                      padding='same', activation='relu')(input_layer)
+    
+    output_layer = layers.BatchNormalization()(output_layer) 
+    return output_layer
+```
+
+
+Bilinear Upsampling
+The following helper function implements the bilinear upsampling layer. Upsampling by a factor of 2 is generally recommended, but you can try out different factors as well. Upsampling is used in the decoder block of the FCN.
+```
+def bilinear_upsample(input_layer):
+    output_layer = BilinearUpSampling2D((2,2))(input_layer)
+    return output_layer
+```
+
+Encoder Block
+Create an encoder block that includes a separable convolution layer using the separable_conv2d_batchnorm() function. The filters parameter defines the size or depth of the output layer. For example, 32 or 64.
+```
+def encoder_block(input_layer, filters, strides):
+    
+    # Create a separable convolution layer using the separable_conv2d_batchnorm() function.
+    output_layer = separable_conv2d_batchnorm(input_layer, filters, strides)
+        
+    return output_layer
+```
+
+Decoder Block
+The decoder block is comprised of three parts:
+
+A bilinear upsampling layer using the upsample_bilinear() function. The current recommended factor for upsampling is set to 2.
+A layer concatenation step. This step is similar to skip connections. You will concatenate the upsampled small_ip_layer and the large_ip_layer.
+Some (one or two) additional separable convolution layers to extract some more spatial information from prior layers.
+
+```
+def decoder_block(small_ip_layer, large_ip_layer, filters):
+    
+    # Upsample the small input layer using the bilinear_upsample() function.
+    upsampled_small_ip_layer = bilinear_upsample(small_ip_layer)
+    
+    # Concatenate the upsampled and large input layers using layers.concatenate
+    output_layer = layers.concatenate([upsampled_small_ip_layer, large_ip_layer])
+    
+    # Add some number of separable convolution layers
+    output_layer1 = separable_conv2d_batchnorm( output_layer, filters, strides=1)
+    output_layer = separable_conv2d_batchnorm( output_layer1, filters, strides=1)
+    return output_layer
+```
+
+Model : Now that you have the encoder and decoder blocks ready, go ahead and build your FCN architecture!
+```
+```
