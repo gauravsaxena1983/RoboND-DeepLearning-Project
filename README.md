@@ -119,3 +119,15 @@ def fcn_model(inputs, num_classes):
     # The function returns the output layer of your model. "x" is the final layer obtained from the last decoder_block()
     return layers.Conv2D(num_classes, 1, activation='softmax', padding='same')(x)
 ```
+
+# Selection of Hyper Parameters:
+
+Batch Size: Started with a batch size of 20 and later finilize on 100.
+
+Workers: Basically you can use the number of cores in your processor as the number of workers. 
+
+Steps Per Epoch: Basically we can approximate the number of steps per epoch by check the number of images per batch.  So for images 4131 and batch size pf 100 we approximate it to 41.
+
+Validation Steps: Same with validation steps. With number of images 1184 and batch size 100 we approximate it to 12.
+
+Learning Rate: I have kept the learning rate at 0.001 for the runs.
