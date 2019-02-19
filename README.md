@@ -3,7 +3,7 @@
 
 In this project we use "Fully Convolutional Network(FCN)" to track a hero from the screen using a quardcopter. This project is based on the lab "Semantic Segmentation" We use FCN for tracking the subject which is drived from "Convolutional Neural Network(CNN)". 
 
-## Bref details on CNN
+## Brief details on CNN
 
 Convolutional Neural Network : A convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. A convolutional neural network consists of an input and an output layer, as well as multiple hidden layers. The hidden layers of a CNN typically consist of convolutional layers, RELU layer i.e. activation function, pooling layers, fully connected layers and normalization layers.
 
