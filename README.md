@@ -1,10 +1,7 @@
 
 # Project : Deep Learning Follow Me
 
-## In this project we use "Fully Convolutional Network(FCN)" to track a hero from the screen using a quardcopter. 
-## This project is based on the lab "Semantic Segmentation"
-
-We use FCN for tracking the subject which is drived from "Convolutional Neural Network(CNN)". 
+In this project we use "Fully Convolutional Network(FCN)" to track a hero from the screen using a quardcopter. This project is based on the lab "Semantic Segmentation" We use FCN for tracking the subject which is drived from "Convolutional Neural Network(CNN)". 
 
 ## Bref details on CNN
 
