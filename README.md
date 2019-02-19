@@ -97,4 +97,25 @@ def decoder_block(small_ip_layer, large_ip_layer, filters):
 
 Model : Now that you have the encoder and decoder blocks ready, go ahead and build your FCN architecture!
 ```
+def fcn_model(inputs, num_classes):
+    
+    # Remember that with each encoder layer, the depth of your model (the number of filters) 
+    encoder1 = encoder_block(inputs, filters=64, strides=2)
+    encoder2 = encoder_block(encoder1, filters=64, strides=2)
+    encoder3 = encoder_block(encoder2, filters=64, strides=2)
+    encoder4 = encoder_block(encoder3, filters=128, strides=2)
+
+    # Add 1x1 Convolution layer using conv2d_batchnorm().
+    onebyone_convolution_layer = conv2d_batchnorm(encoder4, filters=128, kernel_size=1, strides=1)
+                                                  
+    # Add the same number of Decoder Blocks as the number of Encoder Blocks
+    decoder1 = decoder_block(onebyone_convolution_layer, encoder3, filters= 128)
+    decoder2 = decoder_block(decoder1, encoder2, filters=64)
+    decoder3 = decoder_block(decoder2, encoder1, filters=64)
+    decoder4 = decoder_block(decoder3, inputs, filters=64)
+    x = decoder4
+    
+    
+    # The function returns the output layer of your model. "x" is the final layer obtained from the last decoder_block()
+    return layers.Conv2D(num_classes, 1, activation='softmax', padding='same')(x)
 ```
