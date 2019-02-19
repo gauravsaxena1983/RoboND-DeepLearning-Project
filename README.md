@@ -18,3 +18,9 @@ Weights: Each neuron in a neural network computes an output value by applying so
 
 A CNN flow will look like this:
 ![CNN Flow](https://upload.wikimedia.org/wikipedia/commons/6/63/Typical_cnn.png)
+A CNN basically used for classification purpose like is this a car?. 
+
+
+A Fully Convolutional Networks (FCN) don’t have any of the fully-connected layers at the end, which are typically use for classification. Instead, FCNs use convolutional layers to classify each pixel in the image.
+
+So the final output layer will be the same height and width as the input image, but the number of channels will be equal to the number of classes. If we’re classifying each pixel as one of fifteen different classes, then the final output layer will be height x width x 15 classes.
