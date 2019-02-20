@@ -160,4 +160,17 @@ following_images: Test how well the network can identify the target while follow
 
 # Evaluation: Now we are going to evluate the IoU and Final score
 
-The details of the calculation is provided here (link)[https://github.com/gauravsaxena1983/RoboND-DeepLearning-Project/blob/master/code/model_training.md#evaluation-]
+The details of the calculation is provided here https://github.com/gauravsaxena1983/RoboND-DeepLearning-Project/blob/master/code/model_training.md#evaluation-. Which comes out to be final_IoU = 0.532181983935 and final_score = 0.388692643557. 
+
+# Limitation of neural network. 
+The limitation of neural network ar as following 
+1. Availability of training data
+2. Availibilty of high-end GPU
+3. Time to train. 
+
+As discussed here that for object other then human we need to have the new masks and we need to retrain the model. So with the introduction of new object we need to rerun the complete cycle. We can do is creata a backup training job which will trigger periodically with new mask and get the new model from that and feed this to the system. 
+
+# Issues
+1. Was not able to install the RoboND-Python-StarterKit due to the version 2.1.2 mentioned in environment.yml for library imageio. removed the version from the file and env was successfully installed. 
+2. On windows was not ablr to test my model by runninhg follower.py as it was throwing QT5 DLL not found. Installed Ubuntu 16 on VMWare player and setup the project over there and it was working. 
+3. Issue facing as the copter is not able to follow the target. 
