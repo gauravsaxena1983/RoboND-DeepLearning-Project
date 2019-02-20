@@ -157,3 +157,7 @@ following_images: Test how well the network can identify the target while follow
 ![png](./misc_img/output_28_1.png)
 
 ![png](./misc_img/output_28_2.png)
+
+# Evaluation: Now we are going to evluate the IoU and Final score
+
+The details of the calculation is provided here (link)[https://github.com/gauravsaxena1983/RoboND-DeepLearning-Project/blob/master/code/model_training.md#evaluation-]
