@@ -176,4 +176,5 @@ As discussed here that for object other then human we need to have the new masks
 3. Issue facing as the copter is not able to follow the target. 
 
 
-# Model: The models are uploaded at location https://github.com/gauravsaxena1983/RoboND-DeepLearning-Project/tree/master/data/weights
+# Model: The models are uploaded at location 
+https://github.com/gauravsaxena1983/RoboND-DeepLearning-Project/tree/master/data/weights
