@@ -124,7 +124,7 @@ def fcn_model(inputs, num_classes):
 
 Batch Size: Started with a batch size of 20 and later finilize on 100.
 
-Workers: Basically you can use the number of cores in your processor as the number of workers. 
+Workers: Basically you can use the number of cores in your processor as the number of workers. In my case it was 4.
 
 Steps Per Epoch: Basically we can approximate the number of steps per epoch by check the number of images per batch.  So for images 4131 and batch size pf 100 we approximate it to 41.
 
