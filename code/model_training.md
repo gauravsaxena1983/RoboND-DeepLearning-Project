@@ -246,7 +246,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.9818
 
 
-![png](../misc_img/output_19.png)
+![png](misc_img/output_19_1.png)
 
 
     41/41 [==============================] - 62s - loss: 0.9761 - val_loss: 0.7409
@@ -254,7 +254,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.5427
 
 
-![png](output_19_3.png)
+![png](misc_img/output_19_3.png)
 
 
     41/41 [==============================] - 58s - loss: 0.5380 - val_loss: 0.3705
@@ -262,7 +262,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.2387
 
 
-![png](output_19_5.png)
+![png](misc_img/output_19_5.png)
 
 
     41/41 [==============================] - 57s - loss: 0.2366 - val_loss: 0.1898
@@ -270,7 +270,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.1181
 
 
-![png](output_19_7.png)
+![png](misc_img/output_19_7.png)
 
 
     41/41 [==============================] - 57s - loss: 0.1174 - val_loss: 0.1336
@@ -278,7 +278,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0803
 
 
-![png](output_19_9.png)
+![png](misc_img/output_19_9.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0802 - val_loss: 0.1200
@@ -286,7 +286,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0627
 
 
-![png](../misc_img/output_191.png)
+![png](misc_img/output_19_11.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0627 - val_loss: 0.1072
@@ -294,7 +294,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0532
 
 
-![png](../misc_img/output_193.png)
+![png](misc_img/output_19_13.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0533 - val_loss: 0.1056
@@ -302,7 +302,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0469
 
 
-![png](../misc_img/output_195.png)
+![png](misc_img/output_19_15.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0467 - val_loss: 0.1010
@@ -310,7 +310,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0521
 
 
-![png](../misc_img/output_197.png)
+![png](misc_img/output_19_17.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0519 - val_loss: 0.1023
@@ -318,7 +318,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0414
 
 
-![png](../misc_img/output_199.png)
+![png](misc_img/output_19_19.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0412 - val_loss: 0.1011
@@ -326,7 +326,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0372
 
 
-![png](output_19_21.png)
+![png](misc_img/output_19_21.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0370 - val_loss: 0.1001
@@ -334,7 +334,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0351
 
 
-![png](output_19_23.png)
+![png](misc_img/output_19_23.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0350 - val_loss: 0.0958
@@ -342,7 +342,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0327
 
 
-![png](output_19_25.png)
+![png](misc_img/output_19_25.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0328 - val_loss: 0.0841
@@ -350,7 +350,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0310
 
 
-![png](output_19_27.png)
+![png](misc_img/output_19_27.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0310 - val_loss: 0.0766
@@ -358,7 +358,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0294
 
 
-![png](output_19_29.png)
+![png](misc_img/output_19_29.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0295 - val_loss: 0.0560
@@ -366,7 +366,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0293
 
 
-![png](output_19_31.png)
+![png](misc_img/output_19_31.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0294 - val_loss: 0.0520
@@ -374,7 +374,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0281
 
 
-![png](output_19_33.png)
+![png](misc_img/output_19_33.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0280 - val_loss: 0.0378
@@ -382,7 +382,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0266
 
 
-![png](output_19_35.png)
+![png](misc_img/output_19_35.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0266 - val_loss: 0.0396
@@ -390,7 +390,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0260
 
 
-![png](output_19_37.png)
+![png](misc_img/output_19_37.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0259 - val_loss: 0.0364
@@ -398,7 +398,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0243
 
 
-![png](output_19_39.png)
+![png](misc_img/output_19_39.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0243 - val_loss: 0.0498
@@ -406,7 +406,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0249
 
 
-![png](output_19_41.png)
+![png](misc_img/output_19_41.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0250 - val_loss: 0.0310
@@ -414,7 +414,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0234
 
 
-![png](output_19_43.png)
+![png](misc_img/output_19_43.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0234 - val_loss: 0.0359
@@ -422,7 +422,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0217
 
 
-![png](output_19_45.png)
+![png](misc_img/output_19_45.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0217 - val_loss: 0.0326
@@ -430,7 +430,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0235
 
 
-![png](output_19_47.png)
+![png](misc_img/output_19_47.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0234 - val_loss: 0.0337
@@ -438,7 +438,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0211
 
 
-![png](output_19_49.png)
+![png](misc_img/output_19_49.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0210 - val_loss: 0.0315
@@ -446,7 +446,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0224
 
 
-![png](output_19_51.png)
+![png](misc_img/output_19_51.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0224 - val_loss: 0.0367
@@ -454,7 +454,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0213
 
 
-![png](output_19_53.png)
+![png](misc_img/output_19_53.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0213 - val_loss: 0.0297
@@ -462,7 +462,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0195
 
 
-![png](output_19_55.png)
+![png](misc_img/output_19_55.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0194 - val_loss: 0.0307
@@ -470,7 +470,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0200
 
 
-![png](output_19_57.png)
+![png](misc_img/output_19_57.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0200 - val_loss: 0.0246
@@ -478,7 +478,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0204
 
 
-![png](output_19_59.png)
+![png](misc_img/output_19_59.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0204 - val_loss: 0.0356
@@ -486,7 +486,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0211
 
 
-![png](output_19_61.png)
+![png](misc_img/output_19_61.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0211 - val_loss: 0.0335
@@ -494,7 +494,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0199
 
 
-![png](output_19_63.png)
+![png](misc_img/output_19_63.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0198 - val_loss: 0.0295
@@ -502,7 +502,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0187
 
 
-![png](output_19_65.png)
+![png](misc_img/output_19_65.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0187 - val_loss: 0.0393
@@ -510,7 +510,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0185
 
 
-![png](output_19_67.png)
+![png](misc_img/output_19_67.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0186 - val_loss: 0.0294
@@ -518,7 +518,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0179
 
 
-![png](output_19_69.png)
+![png](misc_img/output_19_69.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0179 - val_loss: 0.0317
@@ -526,7 +526,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0175
 
 
-![png](output_19_71.png)
+![png](misc_img/output_19_71.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0175 - val_loss: 0.0370
@@ -534,7 +534,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0176
 
 
-![png](output_19_73.png)
+![png](misc_img/output_19_73.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0176 - val_loss: 0.0310
@@ -542,7 +542,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0189
 
 
-![png](output_19_75.png)
+![png](misc_img/output_19_75.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0190 - val_loss: 0.0363
@@ -550,7 +550,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0188
 
 
-![png](output_19_77.png)
+![png](misc_img/output_19_77.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0187 - val_loss: 0.0318
@@ -558,7 +558,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0180
 
 
-![png](output_19_79.png)
+![png](misc_img/output_19_79.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0180 - val_loss: 0.0296
@@ -566,7 +566,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0167
 
 
-![png](output_19_81.png)
+![png](misc_img/output_19_81.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0167 - val_loss: 0.0310
@@ -574,7 +574,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0167
 
 
-![png](output_19_83.png)
+![png](misc_img/output_19_83.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0167 - val_loss: 0.0313
@@ -582,7 +582,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0169
 
 
-![png](output_19_85.png)
+![png](misc_img/output_19_85.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0169 - val_loss: 0.0293
@@ -590,7 +590,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0159
 
 
-![png](output_19_87.png)
+![png](misc_img/output_19_87.png)
 
 
     41/41 [==============================] - 59s - loss: 0.0159 - val_loss: 0.0310
@@ -598,7 +598,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0164
 
 
-![png](output_19_89.png)
+![png](misc_img/output_19_89.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0163 - val_loss: 0.0272
@@ -606,7 +606,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0156
 
 
-![png](output_19_91.png)
+![png](misc_img/output_19_91.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0156 - val_loss: 0.0299
@@ -614,7 +614,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0155
 
 
-![png](output_19_93.png)
+![png](misc_img/output_19_93.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0156 - val_loss: 0.0297
@@ -622,7 +622,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0151
 
 
-![png](output_19_95.png)
+![png](misc_img/output_19_95.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0151 - val_loss: 0.0298
@@ -630,7 +630,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0181
 
 
-![png](output_19_97.png)
+![png](misc_img/output_19_97.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0181 - val_loss: 0.0306
@@ -638,7 +638,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0168
 
 
-![png](output_19_99.png)
+![png](misc_img/output_19_99.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0167 - val_loss: 0.0324
@@ -646,7 +646,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0157
 
 
-![png](../misc_img/output_1901.png)
+![png](misc_img/output_19_101.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0156 - val_loss: 0.0371
@@ -654,7 +654,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0161
 
 
-![png](../misc_img/output_1903.png)
+![png](misc_img/output_19_103.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0160 - val_loss: 0.0309
@@ -662,7 +662,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0150
 
 
-![png](../misc_img/output_1905.png)
+![png](misc_img/output_19_105.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0150 - val_loss: 0.0314
@@ -670,7 +670,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0145
 
 
-![png](../misc_img/output_1907.png)
+![png](misc_img/output_19_107.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0145 - val_loss: 0.0300
@@ -678,7 +678,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0142
 
 
-![png](../misc_img/output_1909.png)
+![png](misc_img/output_19_109.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0143 - val_loss: 0.0292
@@ -686,7 +686,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0144
 
 
-![png](../misc_img/output_1911.png)
+![png](misc_img/output_19_111.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0144 - val_loss: 0.0284
@@ -694,7 +694,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0158
 
 
-![png](../misc_img/output_1913.png)
+![png](misc_img/output_19_113.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0158 - val_loss: 0.0266
@@ -702,7 +702,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0144
 
 
-![png](../misc_img/output_1915.png)
+![png](misc_img/output_19_115.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0144 - val_loss: 0.0285
@@ -710,7 +710,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0141
 
 
-![png](../misc_img/output_1917.png)
+![png](misc_img/output_19_117.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0141 - val_loss: 0.0262
@@ -718,7 +718,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0135
 
 
-![png](../misc_img/output_1919.png)
+![png](misc_img/output_19_119.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0135 - val_loss: 0.0337
@@ -726,7 +726,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0163
 
 
-![png](../misc_img/output_1921.png)
+![png](misc_img/output_19_121.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0165 - val_loss: 0.0376
@@ -734,7 +734,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0181
 
 
-![png](../misc_img/output_1923.png)
+![png](misc_img/output_19_123.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0180 - val_loss: 0.0323
@@ -742,7 +742,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0148
 
 
-![png](../misc_img/output_1925.png)
+![png](misc_img/output_19_125.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0148 - val_loss: 0.0226
@@ -750,7 +750,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0146
 
 
-![png](../misc_img/output_1927.png)
+![png](misc_img/output_19_127.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0145 - val_loss: 0.0295
@@ -758,7 +758,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0136
 
 
-![png](../misc_img/output_1929.png)
+![png](misc_img/output_19_129.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0136 - val_loss: 0.0378
@@ -766,7 +766,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0135
 
 
-![png](../misc_img/output_1931.png)
+![png](misc_img/output_19_131.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0134 - val_loss: 0.0230
@@ -774,7 +774,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0134
 
 
-![png](../misc_img/output_1933.png)
+![png](misc_img/output_19_133.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0134 - val_loss: 0.0289
@@ -782,7 +782,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0135
 
 
-![png](../misc_img/output_1935.png)
+![png](misc_img/output_19_135.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0135 - val_loss: 0.0372
@@ -790,7 +790,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0132
 
 
-![png](../misc_img/output_1937.png)
+![png](misc_img/output_19_137.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0132 - val_loss: 0.0300
@@ -798,7 +798,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0132
 
 
-![png](../misc_img/output_1939.png)
+![png](misc_img/output_19_139.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0132 - val_loss: 0.0298
@@ -806,7 +806,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0129
 
 
-![png](../misc_img/output_1941.png)
+![png](misc_img/output_19_141.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0129 - val_loss: 0.0395
@@ -814,7 +814,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0128
 
 
-![png](../misc_img/output_1943.png)
+![png](misc_img/output_19_143.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0127 - val_loss: 0.0306
@@ -822,7 +822,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0127
 
 
-![png](../misc_img/output_1945.png)
+![png](misc_img/output_19_145.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0127 - val_loss: 0.0304
@@ -830,7 +830,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0129
 
 
-![png](../misc_img/output_1947.png)
+![png](misc_img/output_19_147.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0129 - val_loss: 0.0330
@@ -838,7 +838,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0138
 
 
-![png](../misc_img/output_1949.png)
+![png](misc_img/output_19_149.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0137 - val_loss: 0.0267
@@ -846,7 +846,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0131
 
 
-![png](../misc_img/output_1951.png)
+![png](misc_img/output_19_151.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0131 - val_loss: 0.0302
@@ -854,7 +854,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0128
 
 
-![png](../misc_img/output_1953.png)
+![png](misc_img/output_19_153.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0128 - val_loss: 0.0291
@@ -862,7 +862,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0123
 
 
-![png](../misc_img/output_1955.png)
+![png](misc_img/output_19_155.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0123 - val_loss: 0.0203
@@ -870,7 +870,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0129
 
 
-![png](../misc_img/output_1957.png)
+![png](misc_img/output_19_157.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0129 - val_loss: 0.0298
@@ -878,7 +878,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0129
 
 
-![png](../misc_img/output_1959.png)
+![png](misc_img/output_19_159.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0129 - val_loss: 0.0313
@@ -886,7 +886,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0125
 
 
-![png](../misc_img/output_1961.png)
+![png](misc_img/output_19_161.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0125 - val_loss: 0.0370
@@ -894,7 +894,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0122
 
 
-![png](../misc_img/output_1963.png)
+![png](misc_img/output_19_163.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0122 - val_loss: 0.0307
@@ -902,7 +902,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0122
 
 
-![png](../misc_img/output_1965.png)
+![png](misc_img/output_19_165.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0122 - val_loss: 0.0300
@@ -910,7 +910,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0121
 
 
-![png](../misc_img/output_1967.png)
+![png](misc_img/output_19_167.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0121 - val_loss: 0.0324
@@ -918,7 +918,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0120
 
 
-![png](../misc_img/output_1969.png)
+![png](misc_img/output_19_169.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0120 - val_loss: 0.0308
@@ -926,7 +926,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0119
 
 
-![png](../misc_img/output_1971.png)
+![png](misc_img/output_19_171.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0119 - val_loss: 0.0331
@@ -934,7 +934,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0118
 
 
-![png](../misc_img/output_1973.png)
+![png](misc_img/output_19_173.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0118 - val_loss: 0.0336
@@ -942,7 +942,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0117
 
 
-![png](../misc_img/output_1975.png)
+![png](misc_img/output_19_175.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0117 - val_loss: 0.0301
@@ -950,7 +950,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0115
 
 
-![png](../misc_img/output_1977.png)
+![png](misc_img/output_19_177.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0115 - val_loss: 0.0224
@@ -958,7 +958,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0115
 
 
-![png](../misc_img/output_1979.png)
+![png](misc_img/output_19_179.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0114 - val_loss: 0.0391
@@ -966,7 +966,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0116
 
 
-![png](../misc_img/output_1981.png)
+![png](misc_img/output_19_181.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0116 - val_loss: 0.0315
@@ -974,7 +974,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0114
 
 
-![png](../misc_img/output_1983.png)
+![png](misc_img/output_19_183.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0114 - val_loss: 0.0320
@@ -982,7 +982,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0116
 
 
-![png](../misc_img/output_1985.png)
+![png](misc_img/output_19_185.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0116 - val_loss: 0.0417
@@ -990,7 +990,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0114
 
 
-![png](../misc_img/output_1987.png)
+![png](misc_img/output_19_187.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0115 - val_loss: 0.0312
@@ -998,7 +998,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0112
 
 
-![png](../misc_img/output_1989.png)
+![png](misc_img/output_19_189.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0112 - val_loss: 0.0309
@@ -1006,7 +1006,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0114
 
 
-![png](../misc_img/output_1991.png)
+![png](misc_img/output_19_191.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0114 - val_loss: 0.0398
@@ -1014,7 +1014,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0117
 
 
-![png](../misc_img/output_1993.png)
+![png](misc_img/output_19_193.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0117 - val_loss: 0.0326
@@ -1022,7 +1022,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0116
 
 
-![png](../misc_img/output_1995.png)
+![png](misc_img/output_19_195.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0116 - val_loss: 0.0366
@@ -1030,7 +1030,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0113
 
 
-![png](../misc_img/output_1997.png)
+![png](misc_img/output_19_197.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0113 - val_loss: 0.0377
@@ -1038,7 +1038,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0112
 
 
-![png](../misc_img/output_1999.png)
+![png](misc_img/output_19_199.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0112 - val_loss: 0.0326
@@ -1046,7 +1046,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0111
 
 
-![png](output_19_201.png)
+![png](misc_img/output_19_201.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0111 - val_loss: 0.0414
@@ -1054,7 +1054,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0111
 
 
-![png](output_19_203.png)
+![png](misc_img/output_19_203.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0111 - val_loss: 0.0301
@@ -1062,7 +1062,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0112
 
 
-![png](output_19_205.png)
+![png](misc_img/output_19_205.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0112 - val_loss: 0.0316
@@ -1070,7 +1070,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0115
 
 
-![png](output_19_207.png)
+![png](misc_img/output_19_207.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0115 - val_loss: 0.0361
@@ -1078,7 +1078,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0263
 
 
-![png](output_19_209.png)
+![png](misc_img/output_19_209.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0264 - val_loss: 0.4565
@@ -1086,7 +1086,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0275
 
 
-![png](output_19_211.png)
+![png](misc_img/output_19_211.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0274 - val_loss: 0.0599
@@ -1094,7 +1094,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0228
 
 
-![png](output_19_213.png)
+![png](misc_img/output_19_213.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0227 - val_loss: 0.0425
@@ -1102,7 +1102,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0196
 
 
-![png](output_19_215.png)
+![png](misc_img/output_19_215.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0196 - val_loss: 0.0357
@@ -1110,7 +1110,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0169
 
 
-![png](output_19_217.png)
+![png](misc_img/output_19_217.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0169 - val_loss: 0.0297
@@ -1118,7 +1118,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0169
 
 
-![png](output_19_219.png)
+![png](misc_img/output_19_219.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0169 - val_loss: 0.0260
@@ -1126,7 +1126,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0154
 
 
-![png](output_19_221.png)
+![png](misc_img/output_19_221.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0153 - val_loss: 0.0297
@@ -1134,7 +1134,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0142
 
 
-![png](output_19_223.png)
+![png](misc_img/output_19_223.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0142 - val_loss: 0.0292
@@ -1142,7 +1142,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0156
 
 
-![png](output_19_225.png)
+![png](misc_img/output_19_225.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0156 - val_loss: 0.0338
@@ -1150,7 +1150,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0156
 
 
-![png](output_19_227.png)
+![png](misc_img/output_19_227.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0155 - val_loss: 0.0277
@@ -1158,7 +1158,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0145
 
 
-![png](output_19_229.png)
+![png](misc_img/output_19_229.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0145 - val_loss: 0.0290
@@ -1166,7 +1166,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0138
 
 
-![png](output_19_231.png)
+![png](misc_img/output_19_231.png)
 
 
     41/41 [==============================] - 56s - loss: 0.0137 - val_loss: 0.0287
@@ -1174,7 +1174,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0130
 
 
-![png](output_19_233.png)
+![png](misc_img/output_19_233.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0130 - val_loss: 0.0216
@@ -1182,7 +1182,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0125
 
 
-![png](output_19_235.png)
+![png](misc_img/output_19_235.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0125 - val_loss: 0.0278
@@ -1190,7 +1190,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0125
 
 
-![png](output_19_237.png)
+![png](misc_img/output_19_237.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0125 - val_loss: 0.0309
@@ -1198,7 +1198,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0124
 
 
-![png](output_19_239.png)
+![png](misc_img/output_19_239.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0125 - val_loss: 0.0253
@@ -1206,7 +1206,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0123
 
 
-![png](output_19_241.png)
+![png](misc_img/output_19_241.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0123 - val_loss: 0.0286
@@ -1214,7 +1214,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0119
 
 
-![png](output_19_243.png)
+![png](misc_img/output_19_243.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0118 - val_loss: 0.0310
@@ -1222,7 +1222,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0123
 
 
-![png](output_19_245.png)
+![png](misc_img/output_19_245.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0123 - val_loss: 0.0294
@@ -1230,7 +1230,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0119
 
 
-![png](output_19_247.png)
+![png](misc_img/output_19_247.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0119 - val_loss: 0.0299
@@ -1238,7 +1238,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0116
 
 
-![png](output_19_249.png)
+![png](misc_img/output_19_249.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0117 - val_loss: 0.0252
@@ -1246,7 +1246,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0115
 
 
-![png](output_19_251.png)
+![png](misc_img/output_19_251.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0115 - val_loss: 0.0191
@@ -1254,7 +1254,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0114
 
 
-![png](output_19_253.png)
+![png](misc_img/output_19_253.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0114 - val_loss: 0.0309
@@ -1262,7 +1262,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0113
 
 
-![png](output_19_255.png)
+![png](misc_img/output_19_255.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0113 - val_loss: 0.0296
@@ -1270,7 +1270,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0141
 
 
-![png](output_19_257.png)
+![png](misc_img/output_19_257.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0141 - val_loss: 0.0306
@@ -1278,7 +1278,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0172
 
 
-![png](output_19_259.png)
+![png](misc_img/output_19_259.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0175 - val_loss: 0.0323
@@ -1286,7 +1286,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0147
 
 
-![png](output_19_261.png)
+![png](misc_img/output_19_261.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0147 - val_loss: 0.0316
@@ -1294,7 +1294,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0124
 
 
-![png](output_19_263.png)
+![png](misc_img/output_19_263.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0124 - val_loss: 0.0207
@@ -1302,7 +1302,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0123
 
 
-![png](output_19_265.png)
+![png](misc_img/output_19_265.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0123 - val_loss: 0.0294
@@ -1310,7 +1310,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0117
 
 
-![png](output_19_267.png)
+![png](misc_img/output_19_267.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0117 - val_loss: 0.0292
@@ -1318,7 +1318,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0115
 
 
-![png](output_19_269.png)
+![png](misc_img/output_19_269.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0115 - val_loss: 0.0290
@@ -1326,7 +1326,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0114
 
 
-![png](output_19_271.png)
+![png](misc_img/output_19_271.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0114 - val_loss: 0.0284
@@ -1334,7 +1334,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0111
 
 
-![png](output_19_273.png)
+![png](misc_img/output_19_273.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0110 - val_loss: 0.0342
@@ -1342,7 +1342,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0117
 
 
-![png](output_19_275.png)
+![png](misc_img/output_19_275.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0117 - val_loss: 0.0230
@@ -1350,7 +1350,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0112
 
 
-![png](output_19_277.png)
+![png](misc_img/output_19_277.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0112 - val_loss: 0.0298
@@ -1358,7 +1358,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0111
 
 
-![png](output_19_279.png)
+![png](misc_img/output_19_279.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0111 - val_loss: 0.0303
@@ -1366,7 +1366,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0107
 
 
-![png](output_19_281.png)
+![png](misc_img/output_19_281.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0107 - val_loss: 0.0352
@@ -1374,7 +1374,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0108
 
 
-![png](output_19_283.png)
+![png](misc_img/output_19_283.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0108 - val_loss: 0.0303
@@ -1382,7 +1382,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0107
 
 
-![png](output_19_285.png)
+![png](misc_img/output_19_285.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0107 - val_loss: 0.0313
@@ -1390,7 +1390,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0107
 
 
-![png](output_19_287.png)
+![png](misc_img/output_19_287.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0107 - val_loss: 0.0340
@@ -1398,7 +1398,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0108
 
 
-![png](output_19_289.png)
+![png](misc_img/output_19_289.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0108 - val_loss: 0.0311
@@ -1406,7 +1406,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0109
 
 
-![png](output_19_291.png)
+![png](misc_img/output_19_291.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0109 - val_loss: 0.0250
@@ -1414,7 +1414,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0105
 
 
-![png](output_19_293.png)
+![png](misc_img/output_19_293.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0105 - val_loss: 0.0354
@@ -1422,7 +1422,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0107
 
 
-![png](output_19_295.png)
+![png](misc_img/output_19_295.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0107 - val_loss: 0.0317
@@ -1430,7 +1430,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0105
 
 
-![png](output_19_297.png)
+![png](misc_img/output_19_297.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0105 - val_loss: 0.0272
@@ -1438,7 +1438,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0108
 
 
-![png](output_19_299.png)
+![png](misc_img/output_19_299.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0108 - val_loss: 0.0209
@@ -1446,7 +1446,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0109
 
 
-![png](output_19_301.png)
+![png](misc_img/output_19_301.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0109 - val_loss: 0.0314
@@ -1454,7 +1454,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0103
 
 
-![png](output_19_303.png)
+![png](misc_img/output_19_303.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0103 - val_loss: 0.0330
@@ -1462,7 +1462,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0105
 
 
-![png](output_19_305.png)
+![png](misc_img/output_19_305.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0105 - val_loss: 0.0410
@@ -1470,7 +1470,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0103
 
 
-![png](output_19_307.png)
+![png](misc_img/output_19_307.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0103 - val_loss: 0.0320
@@ -1478,7 +1478,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0102
 
 
-![png](output_19_309.png)
+![png](misc_img/output_19_309.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0102 - val_loss: 0.0311
@@ -1486,7 +1486,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0103
 
 
-![png](output_19_311.png)
+![png](misc_img/output_19_311.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0103 - val_loss: 0.0412
@@ -1494,7 +1494,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0107
 
 
-![png](output_19_313.png)
+![png](misc_img/output_19_313.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0106 - val_loss: 0.0344
@@ -1502,7 +1502,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0133
 
 
-![png](output_19_315.png)
+![png](misc_img/output_19_315.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0133 - val_loss: 0.0395
@@ -1510,7 +1510,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0159
 
 
-![png](output_19_317.png)
+![png](misc_img/output_19_317.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0159 - val_loss: 0.0333
@@ -1518,7 +1518,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0131
 
 
-![png](output_19_319.png)
+![png](misc_img/output_19_319.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0131 - val_loss: 0.0309
@@ -1526,7 +1526,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0114
 
 
-![png](output_19_321.png)
+![png](misc_img/output_19_321.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0114 - val_loss: 0.0200
@@ -1534,7 +1534,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0108
 
 
-![png](output_19_323.png)
+![png](misc_img/output_19_323.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0108 - val_loss: 0.0409
@@ -1542,7 +1542,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0106
 
 
-![png](output_19_325.png)
+![png](misc_img/output_19_325.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0106 - val_loss: 0.0300
@@ -1550,7 +1550,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0105
 
 
-![png](output_19_327.png)
+![png](misc_img/output_19_327.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0105 - val_loss: 0.0402
@@ -1558,7 +1558,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0103
 
 
-![png](output_19_329.png)
+![png](misc_img/output_19_329.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0103 - val_loss: 0.0280
@@ -1566,7 +1566,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0103
 
 
-![png](output_19_331.png)
+![png](misc_img/output_19_331.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0104 - val_loss: 0.0313
@@ -1574,7 +1574,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0101
 
 
-![png](output_19_333.png)
+![png](misc_img/output_19_333.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0101 - val_loss: 0.0224
@@ -1582,7 +1582,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0101
 
 
-![png](output_19_335.png)
+![png](misc_img/output_19_335.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0101 - val_loss: 0.0336
@@ -1590,7 +1590,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0100
 
 
-![png](output_19_337.png)
+![png](misc_img/output_19_337.png)
 
 
     41/41 [==============================] - 59s - loss: 0.0101 - val_loss: 0.0313
@@ -1598,7 +1598,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0100
 
 
-![png](output_19_339.png)
+![png](misc_img/output_19_339.png)
 
 
     41/41 [==============================] - 59s - loss: 0.0101 - val_loss: 0.0400
@@ -1606,7 +1606,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0100
 
 
-![png](output_19_341.png)
+![png](misc_img/output_19_341.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0100 - val_loss: 0.0282
@@ -1614,7 +1614,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0100
 
 
-![png](output_19_343.png)
+![png](misc_img/output_19_343.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0100 - val_loss: 0.0316
@@ -1622,7 +1622,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0098
 
 
-![png](output_19_345.png)
+![png](misc_img/output_19_345.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0098 - val_loss: 0.0441
@@ -1630,7 +1630,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0101
 
 
-![png](output_19_347.png)
+![png](misc_img/output_19_347.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0102 - val_loss: 0.0238
@@ -1638,7 +1638,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0099
 
 
-![png](output_19_349.png)
+![png](misc_img/output_19_349.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0099 - val_loss: 0.0328
@@ -1646,7 +1646,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0105
 
 
-![png](output_19_351.png)
+![png](misc_img/output_19_351.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0104 - val_loss: 0.0345
@@ -1654,7 +1654,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0107
 
 
-![png](output_19_353.png)
+![png](misc_img/output_19_353.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0107 - val_loss: 0.0406
@@ -1662,7 +1662,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0121
 
 
-![png](output_19_355.png)
+![png](misc_img/output_19_355.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0122 - val_loss: 0.0434
@@ -1670,7 +1670,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0142
 
 
-![png](output_19_357.png)
+![png](misc_img/output_19_357.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0142 - val_loss: 0.0270
@@ -1678,7 +1678,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0115
 
 
-![png](output_19_359.png)
+![png](misc_img/output_19_359.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0115 - val_loss: 0.0233
@@ -1686,7 +1686,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0111
 
 
-![png](output_19_361.png)
+![png](misc_img/output_19_361.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0111 - val_loss: 0.0309
@@ -1694,7 +1694,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0104
 
 
-![png](output_19_363.png)
+![png](misc_img/output_19_363.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0104 - val_loss: 0.0377
@@ -1702,7 +1702,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0101
 
 
-![png](output_19_365.png)
+![png](misc_img/output_19_365.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0100 - val_loss: 0.0268
@@ -1710,7 +1710,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0099
 
 
-![png](output_19_367.png)
+![png](misc_img/output_19_367.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0099 - val_loss: 0.0312
@@ -1718,7 +1718,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0097
 
 
-![png](output_19_369.png)
+![png](misc_img/output_19_369.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0098 - val_loss: 0.0200
@@ -1726,7 +1726,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0099
 
 
-![png](output_19_371.png)
+![png](misc_img/output_19_371.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0099 - val_loss: 0.0227
@@ -1734,7 +1734,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0097
 
 
-![png](output_19_373.png)
+![png](misc_img/output_19_373.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0098 - val_loss: 0.0317
@@ -1742,7 +1742,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0097
 
 
-![png](output_19_375.png)
+![png](misc_img/output_19_375.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0097 - val_loss: 0.0313
@@ -1750,7 +1750,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0096
 
 
-![png](output_19_377.png)
+![png](misc_img/output_19_377.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0096 - val_loss: 0.0305
@@ -1758,7 +1758,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0098
 
 
-![png](output_19_379.png)
+![png](misc_img/output_19_379.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0098 - val_loss: 0.0322
@@ -1766,7 +1766,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0095
 
 
-![png](output_19_381.png)
+![png](misc_img/output_19_381.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0096 - val_loss: 0.0317
@@ -1774,7 +1774,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0096
 
 
-![png](output_19_383.png)
+![png](misc_img/output_19_383.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0096 - val_loss: 0.0351
@@ -1782,7 +1782,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0096
 
 
-![png](output_19_385.png)
+![png](misc_img/output_19_385.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0096 - val_loss: 0.0337
@@ -1790,7 +1790,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0096
 
 
-![png](output_19_387.png)
+![png](misc_img/output_19_387.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0096 - val_loss: 0.0379
@@ -1798,7 +1798,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0095
 
 
-![png](output_19_389.png)
+![png](misc_img/output_19_389.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0095 - val_loss: 0.0338
@@ -1806,7 +1806,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0095
 
 
-![png](output_19_391.png)
+![png](misc_img/output_19_391.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0096 - val_loss: 0.0341
@@ -1814,7 +1814,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0096
 
 
-![png](output_19_393.png)
+![png](misc_img/output_19_393.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0096 - val_loss: 0.0453
@@ -1822,7 +1822,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0095
 
 
-![png](output_19_395.png)
+![png](misc_img/output_19_395.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0095 - val_loss: 0.0326
@@ -1830,7 +1830,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0095
 
 
-![png](output_19_397.png)
+![png](misc_img/output_19_397.png)
 
 
     41/41 [==============================] - 58s - loss: 0.0095 - val_loss: 0.0335
@@ -1838,7 +1838,7 @@ with active_session():
     40/41 [============================>.] - ETA: 1s - loss: 0.0093
 
 
-![png](output_19_399.png)
+![png](misc_img/output_19_399.png)
 
 
     41/41 [==============================] - 57s - loss: 0.0093 - val_loss: 0.0391
