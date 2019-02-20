@@ -49,18 +49,18 @@ The Encoder for your FCN will essentially require separable convolution layers, 
 
 ```python
 def separable_conv2d_batchnorm(input_layer, filters, strides=1):
-    output_layer = SeparableConv2DKeras(filters=filters,kernel_size=3, strides=strides,
+    ../misc_img/output_layer = SeparableConv2DKeras(filters=filters,kernel_size=3, strides=strides,
                              padding='same', activation='relu')(input_layer)
     
-    output_layer = layers.BatchNormalization()(output_layer) 
-    return output_layer
+    ../misc_img/output_layer = layers.BatchNormalization()(../misc_img/output_layer) 
+    return ../misc_img/output_layer
 
 def conv2d_batchnorm(input_layer, filters, kernel_size=3, strides=1):
-    output_layer = layers.Conv2D(filters=filters, kernel_size=kernel_size, strides=strides, 
+    ../misc_img/output_layer = layers.Conv2D(filters=filters, kernel_size=kernel_size, strides=strides, 
                       padding='same', activation='relu')(input_layer)
     
-    output_layer = layers.BatchNormalization()(output_layer) 
-    return output_layer
+    ../misc_img/output_layer = layers.BatchNormalization()(../misc_img/output_layer) 
+    return ../misc_img/output_layer
 ```
 
 ### Bilinear Upsampling
@@ -69,8 +69,8 @@ The following helper function implements the bilinear upsampling layer. Upsampli
 
 ```python
 def bilinear_upsample(input_layer):
-    output_layer = BilinearUpSampling2D((2,2))(input_layer)
-    return output_layer
+    ../misc_img/output_layer = BilinearUpSampling2D((2,2))(input_layer)
+    return ../misc_img/output_layer
 ```
 
 ## Build the Model <a id='build'></a>
@@ -87,9 +87,9 @@ Create an encoder block that includes a separable convolution layer using the `s
 def encoder_block(input_layer, filters, strides):
     
     # Create a separable convolution layer using the separable_conv2d_batchnorm() function.
-    output_layer = separable_conv2d_batchnorm(input_layer, filters, strides)
+    ../misc_img/output_layer = separable_conv2d_batchnorm(input_layer, filters, strides)
     
-    return output_layer
+    return ../misc_img/output_layer
 ```
 
 ### Decoder Block
@@ -106,12 +106,12 @@ def decoder_block(small_ip_layer, large_ip_layer, filters):
     upsampled_small_ip_layer = bilinear_upsample(small_ip_layer)
     
     # Concatenate the upsampled and large input layers using layers.concatenate
-    output_layer = layers.concatenate([upsampled_small_ip_layer, large_ip_layer])
+    ../misc_img/output_layer = layers.concatenate([upsampled_small_ip_layer, large_ip_layer])
     
     # Add some number of separable convolution layers
-    output_layer = separable_conv2d_batchnorm( output_layer, filters, strides=1)
+    ../misc_img/output_layer = separable_conv2d_batchnorm( ../misc_img/output_layer, filters, strides=1)
     
-    return output_layer
+    return ../misc_img/output_layer
 ```
 
 ### Model
@@ -174,7 +174,7 @@ inputs = layers.Input(image_shape)
 num_classes = 3
 
 # Call fcn_model()
-output_layer = fcn_model(inputs, num_classes)
+../misc_img/output_layer = fcn_model(inputs, num_classes)
 ```
 
     layer1 Tensor("batch_normalization/batchnorm/add_1:0", shape=(?, 80, 80, 64), dtype=float32)
@@ -216,7 +216,7 @@ from workspace_utils import active_session
 # Keeping Your Session Active
 with active_session():
     # Define the Keras model and compile it for training
-    model = models.Model(inputs=inputs, outputs=output_layer)
+    model = models.Model(inputs=inputs, outputs=../misc_img/output_layer)
 
     model.compile(optimizer=keras.optimizers.Adam(learning_rate), loss='categorical_crossentropy')
 
@@ -1921,15 +1921,15 @@ for i in range(3):
 ```
 
 
-![png](output_27_0.png)
+![png](../misc_img/output_27_0.png)
 
 
 
-![png](output_27_1.png)
+![png](../misc_img/output_27_1.png)
 
 
 
-![png](output_27_2.png)
+![png](../misc_img/output_27_2.png)
 
 
 
@@ -1943,15 +1943,15 @@ for i in range(3):
 ```
 
 
-![png](output_28_0.png)
+![png](../misc_img/output_28_0.png)
 
 
 
-![png](output_28_1.png)
+![png](../misc_img/output_28_1.png)
 
 
 
-![png](output_28_2.png)
+![png](../misc_img/output_28_2.png)
 
 
 ## Evaluation <a id='evaluation'></a>
