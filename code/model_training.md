@@ -1899,15 +1899,15 @@ for i in range(3):
 ```
 
 
-![png](output_26_0.png)
+![png](../misc_img/output_26_0.png)
 
 
 
-![png](output_26_1.png)
+![png](../misc_img/output_26_1.png)
 
 
 
-![png](output_26_2.png)
+![png](../misc_img/output_26_2.png)
 
 
 
