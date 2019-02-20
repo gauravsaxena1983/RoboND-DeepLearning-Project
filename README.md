@@ -174,3 +174,6 @@ As discussed here that for object other then human we need to have the new masks
 1. Was not able to install the RoboND-Python-StarterKit due to the version 2.1.2 mentioned in environment.yml for library imageio. removed the version from the file and env was successfully installed. 
 2. On windows was not ablr to test my model by runninhg follower.py as it was throwing QT5 DLL not found. Installed Ubuntu 16 on VMWare player and setup the project over there and it was working. 
 3. Issue facing as the copter is not able to follow the target. 
+
+
+# Model: The models are uploaded at location https://github.com/gauravsaxena1983/RoboND-DeepLearning-Project/tree/master/data/weights
