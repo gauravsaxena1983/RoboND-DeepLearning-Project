@@ -131,3 +131,29 @@ Steps Per Epoch: Basically we can approximate the number of steps per epoch by c
 Validation Steps: Same with validation steps. With number of images 1184 and batch size 100 we approximate it to 12.
 
 Learning Rate: I have kept the learning rate at 0.001 for the runs.
+
+# Prediction: There are three different predictions available from the helper code provided
+
+patrol_with_targ: Test how well the network can detect the hero from a distance.
+
+![png](./misc_img/output_26_0.png)
+
+![png](./misc_img/output_26_1.png)
+
+![png](./misc_img/output_26_2.png)
+
+patrol_non_targ: Test how often the network makes a mistake and identifies the wrong person as the target.
+
+![png](./misc_img/output_27_0.png)
+
+![png](./misc_img/output_27_1.png)
+
+![png](./misc_img/output_27_2.png)
+
+following_images: Test how well the network can identify the target while following them.
+
+![png](./misc_img/output_28_0.png)
+
+![png](./misc_img/output_28_1.png)
+
+![png](./misc_img/output_28_2.png)
